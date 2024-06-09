@@ -1,1 +1,1 @@
-# University-Internship Bike Project
+# University Internship Bike Project
